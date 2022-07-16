@@ -36,14 +36,14 @@ body{
     height: 3em;
     line-height: 3em;
     background-color: rgb(185, 112, 41);
-    color: white;
+    color: black;
     text-align: center;
     font-weight: 900;
 }
 article p{
     font-size: 1em;
     font-weight: 300;
-    font-style: italic;
+    font-style: inherit;
 }
 article h3{
     font-size: x-large;
