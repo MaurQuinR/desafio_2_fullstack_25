@@ -1,0 +1,59 @@
+.header{    
+    height: 20em;
+    background-image: url("../imgs/fondo.jpg");
+    background-size: cover;
+    background-position: center;    
+}
+.header h1{
+    margin: 0px;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+}
+.header{
+    height: 5em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url("../imgs/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.products {
+    width: 80%;
+    margin: auto;
+}
+.products td{
+    width: 50%;
+    padding: 2em;
+}
+.products img{
+    width: 100%;
+    border: solid 1px #ddd;
+}
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(185, 112, 41);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
+article p{
+    font-size: 1em;
+    font-weight: 300;
+    font-style: italic;
+}
+article h3{
+    font-size: x-large;
+    margin: 0%;
+}
+article h2{
+    font-size: x-large;
+    margin: 0%;
+}
+article h1{
+    font-size: x-large;
+    margin: 0%;
+}
